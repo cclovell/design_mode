@@ -4,4 +4,3 @@ target
 *.log
 *.log.*
 tmp
-order-service-base/src/main/resources/prod/alipay
