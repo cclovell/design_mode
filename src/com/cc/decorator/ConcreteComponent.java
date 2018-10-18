@@ -5,7 +5,9 @@ package com.cc.decorator;
  * @date 2018/10/18 上午10:35
  */
 public class ConcreteComponent implements Component {
+
+    @Override
     public void operation() {
-        System.out.println("ConcreteComponent operation");
+        System.out.println("我是ConcreteComponent");
     }
 }

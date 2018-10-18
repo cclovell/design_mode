@@ -5,8 +5,8 @@ package com.cc.decorator;
  * @date 2018/10/18 上午10:49
  */
 public class ConcreteDecoratorA extends Decorator {
-    public ConcreteDecoratorA(Component compoment) {
-        super(compoment);
+    public ConcreteDecoratorA(Component component) {
+        super(component);
     }
 
     @Override
