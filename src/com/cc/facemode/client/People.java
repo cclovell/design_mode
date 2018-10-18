@@ -9,7 +9,7 @@ import com.cc.facemode.face.Computer;
  * @date 2018/10/16 上午9:03
  */
 public class People {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Computer computer = new Computer();
         computer.start();
         computer.stop();
